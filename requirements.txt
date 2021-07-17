@@ -1,5 +1,6 @@
 streamlit
-base64
+base58==2.0.1
+subprocess
 pandas
 numpy
 keras
