@@ -3,4 +3,3 @@ pandas
 numpy
 keras
 tensorflow-cpu
-java
