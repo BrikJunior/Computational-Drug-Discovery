@@ -1,4 +1,5 @@
 # Computational-Drug-Discovery Bioactivity predictor app
+### [Live Demo](https://computational-drug.herokuapp.com/)
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
