@@ -1,4 +1,6 @@
 streamlit
+subprocess
+base64
 pandas
 numpy
 keras
