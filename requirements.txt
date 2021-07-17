@@ -1,5 +1,4 @@
 streamlit
-pybase64
 subprocess
 pandas
 numpy
